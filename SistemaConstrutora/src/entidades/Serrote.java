@@ -1,12 +1,12 @@
 package entidades;
 
-public class Cerrote extends Ferramenta{
+public class Serrote extends Ferramenta{
     
     private int qtdeDentes;
 
     private Cor cor;
 
-    public Cerrote() {
+    public Serrote() {
 
     }
 
